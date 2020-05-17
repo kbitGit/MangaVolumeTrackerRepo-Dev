@@ -1,0 +1,80 @@
+{
+  "repo": {
+    "timestamp": 1589740366617,
+    "version": 18,
+    "name": "MangaVolumeTrackerRepo-Dev",
+    "icon": "default-repo-icon.png",
+    "address": "https://raw.githubusercontent.com/kbitGit/MangaVolumeTrackerRepo-Dev/master/fdroid/repo",
+    "description": "A Repository for the Developmentbuilds",
+    "mirrors": [
+      "https://raw.githubusercontent.com/kbitGit/MangaVolumeTrackerRepo-Dev/master/fdroid/repo/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "suggestedVersionCode": "4001",
+      "license": "Unknown",
+      "name": "Manga Volume Tracker",
+      "added": 1589740264723,
+      "icon": "de.ghotra.manga_volume_tracker.4001.png",
+      "packageName": "de.ghotra.manga_volume_tracker",
+      "lastUpdated": 1589740277572
+    }
+  ],
+  "packages": {
+    "de.ghotra.manga_volume_tracker": [
+      {
+        "added": 1589740274727,
+        "apkName": "app-arm64-v8a-release.apk",
+        "hash": "4149e3a5bbbad7507e1ef289c4116753f425ae43e2d27eecf90dc298f91264d5",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "de.ghotra.manga_volume_tracker",
+        "sig": "117209e0b1f4c0ea1a376a732de1e391",
+        "size": 6840212,
+        "targetSdkVersion": "28",
+        "versionCode": 2001,
+        "versionName": "0.0.1"
+      },
+      {
+        "added": 1589740276142,
+        "apkName": "app-armeabi-v7a-release.apk",
+        "hash": "422f29e003dd6e0970b1895ed7f98fa9b3d754f753ad4a65de21fe8656e6c0c5",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "de.ghotra.manga_volume_tracker",
+        "sig": "117209e0b1f4c0ea1a376a732de1e391",
+        "size": 6296274,
+        "targetSdkVersion": "28",
+        "versionCode": 1001,
+        "versionName": "0.0.1"
+      },
+      {
+        "added": 1589740277572,
+        "apkName": "app-x86_64-release.apk",
+        "hash": "21d7780f5ab3baa76e51b50b27b038ad20164a9310cdf4cf0c47ca1349bb9fac",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "x86_64"
+        ],
+        "packageName": "de.ghotra.manga_volume_tracker",
+        "sig": "117209e0b1f4c0ea1a376a732de1e391",
+        "size": 7100622,
+        "targetSdkVersion": "28",
+        "versionCode": 4001,
+        "versionName": "0.0.1"
+      }
+    ]
+  }
+}
