@@ -1,14 +1,13 @@
 {
   "repo": {
-    "timestamp": 1589741669145,
+    "timestamp": 1589741752730,
     "version": 18,
     "name": "MangaVolumeTrackerRepo-Dev",
     "icon": "default-repo-icon.png",
-    "address": "https://raw.githubusercontent.com/kbitGit/MangaVolumeTrackerRepo-Dev/master/fdroid/repo",
+    "address": "https://gitlab.com/kbitGitlab/fdroid-repo-gitlab/raw/master/fdroid/repo",
     "description": "A Repository for the Developmentbuilds",
     "mirrors": [
-      "https://gitlab.com/kbitGitlab/fdroid-repo-gitlab/raw/master/fdroid/repo/repo",
-      "https://raw.githubusercontent.com/kbitGit/MangaVolumeTrackerRepo-Dev/master/fdroid/repo/repo"
+      "https://gitlab.com/kbitGitlab/fdroid-repo-gitlab/raw/master/fdroid/repo/repo"
     ]
   },
   "requests": {
