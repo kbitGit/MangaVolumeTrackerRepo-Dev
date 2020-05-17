@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1589741858590,
+    "timestamp": 1589742662188,
     "version": 18,
     "name": "MangaVolumeTrackerRepo-Dev",
     "icon": "default-repo-icon.png",
@@ -16,13 +16,22 @@
   },
   "apps": [
     {
+      "authorName": "Pavitter Ghotra",
+      "categories": [
+        "Reading"
+      ],
       "suggestedVersionCode": "4001",
       "license": "Unknown",
       "name": "Manga Volume Tracker",
       "added": 1589740264723,
       "icon": "de.ghotra.manga_volume_tracker.4001.png",
       "packageName": "de.ghotra.manga_volume_tracker",
-      "lastUpdated": 1589740277572
+      "lastUpdated": 1589740277572,
+      "localized": {
+        "en": {
+          "summary": "An offline Manga Management Tool"
+        }
+      }
     }
   ],
   "packages": {
